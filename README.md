@@ -1,2 +1,2 @@
-# trilogi
+# trilogi-web
 Aplikasi Pemesanan Desain
